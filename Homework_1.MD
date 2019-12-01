@@ -9,12 +9,12 @@ Elements of history include historical figures, historical events, historical ti
 Data sources:
 1. Wikipedia history entry
 2. Baidu Encyclopedia history entry
-3.CHINA BIOGRAPHICAL DATABASE PROJECT (CBDB) https://projects.iq.harvard.edu/chinesecbdb/cbdb-api
-4.Codes of administrative regions in China http://www.mca.gov.cn/article/sj/xzqh/
-5.Online query of the Atlas of Ancient Chinese History http://home.olemiss.edu/~gg/hstrymap/lishidit.htm
-6.Entry resource https://github.com/shgongbo/allHistory
+3. CHINA BIOGRAPHICAL DATABASE PROJECT (CBDB) https://projects.iq.harvard.edu/chinesecbdb/cbdb-api
+4. Codes of administrative regions in China http://www.mca.gov.cn/article/sj/xzqh/
+5. Online query of the Atlas of Ancient Chinese History http://home.olemiss.edu/~gg/hstrymap/lishidit.htm
+6. Entry resource https://github.com/shgongbo/allHistory
 7. Google Maps API https://cloud.google.com/maps-platform/?hl=en
-8.Allhistory https://www.allhistory.com/
+8. Allhistory https://www.allhistory.com/
 
 Database selection:
 Neo4J: Graph database, suitable for current knowledge graph tasks.
