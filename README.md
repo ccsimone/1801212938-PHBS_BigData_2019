@@ -2,4 +2,4 @@
 
 The first homework is uploaded as Homework_1.MD.
 
-The second homework is a coding work, I have uploaded in .ipynb format.
+The second homework is a coding work, I have uploaded in .ipynb format as HW2.ipynb .
