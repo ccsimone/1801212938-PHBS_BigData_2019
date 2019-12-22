@@ -2,7 +2,7 @@
 
 The first homework is uploaded as Homework_1.MD.
 
-The second homework is a coding work, I have uploaded in .ipynb format as HW2.ipynb .
+The second homework is in .ipynb format as HW2.ipynb .
 
 The homework2 is uploaded before the former due at 11:59pm 12/22/2019.
 
