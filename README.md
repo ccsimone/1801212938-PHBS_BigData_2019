@@ -7,3 +7,5 @@ The second homework is in .ipynb format as HW2.ipynb .
 **For HW2, I uploaded two picture for the formula of problem 2 question 1 and problem 4, please refer to it.**
 
 The homework2 is uploaded before the former due at 11:59pm 12/22/2019.
+
+**Please check for the final version of homework2 as HW2_final version.ipynb. Thanks!
