@@ -9,3 +9,7 @@ For HW2, I uploaded two picture for the formula of problem 2 question 1 and prob
 Please check for the final version of homework2 as HW2_final_version.ipynb. Thanks!**
 
 ***We are Group 7, and research on Doctor-Patient Behavior And Medical Resource Allocation Of Internet Medical Platform. The team project report and PPT are uploaded.
+
+Team project PPT: The doctor-patient behavior and medical resource .pdf
+
+Team project report: Final report - group 7.pdf
